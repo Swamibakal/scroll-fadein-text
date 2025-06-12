@@ -2,7 +2,7 @@
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
-  font-size: 18px;
+  font-size: 24px;
   font-family: "Merriweather", serif;
   font-weight: 600;
   margin: 20px 0;
@@ -19,13 +19,13 @@
 
 .fade-in-text i {
   color: #d9534f; /* red for icons */
-  font-size: 20px;
+  font-size: 24px;
 }
 .fade-in-text {
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Merriweather", serif;
   font-weight: 600;
   margin: 20px 0;
@@ -39,7 +39,7 @@
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Merriweather", serif;
   font-weight: 600;
   margin: 20px 0;
