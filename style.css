@@ -3,7 +3,7 @@
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
   font-size: 24px;
-  font-family: "Merriweather", serif;
+  font-family: "Arial", serif;
   font-weight: 600;
   margin: 20px 0;
   display: flex;
@@ -26,7 +26,7 @@
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
   font-size: 20px;
-  font-family: "Merriweather", serif;
+  font-family: "Arial", serif;
   font-weight: 600;
   margin: 20px 0;
 }
@@ -40,7 +40,7 @@
   transform: translateY(20px);
   transition: opacity 1s ease-out, transform 1s ease-out;
   font-size: 20px;
-  font-family: "Merriweather", serif;
+  font-family: "Arial", serif;
   font-weight: 600;
   margin: 20px 0;
   display: flex;
