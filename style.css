@@ -12,6 +12,11 @@
   color: #211D70;
 }
 
+.fade-in-text span {
+  text-align: justify;
+  flex: 1;
+}
+
 .fade-in-text.visible {
   opacity: 1;
   transform: translateY(0);
